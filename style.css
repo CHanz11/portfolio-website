@@ -89,7 +89,8 @@ section{
 	background-image: url('./images/bg.png');
 	background-size: contain;
 	background-repeat: no-repeat;
-	background-position: right;
+	height: 50vh;
+	background-position: center;
 }
 
 .home-content{
